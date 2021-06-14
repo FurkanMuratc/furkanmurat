@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/listelemefragment"
+
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Detay:Türkiye’nin organize perakende sektöründe pazar payı en yüksek şirket olan BİM Birleşik Mağazalar AŞ, faaliyetlerine 1995 yılında 21 mağazayla başlamıştır.
+BİM’in ana ilkesi, temel gıda ve tüketim malzemelerinin yüksek kalite ve en uygun fiyat ile tüketiciye ulaştırılmasıdır. Yüksek indirim (hard-discount) modelinin Türkiye’deki ilk temsilcisi olan BİM, portföyünde yaklaşık 750 ürün bulundururken aynı zamanda çok sayıda özel markalı ürünü de müşterilerine sunmayı hedeflemektedir."
+        android:textSize="20dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="50dp"
+        android:textColor="@color/black"
+        />
+</RelativeLayout>
